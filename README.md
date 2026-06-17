@@ -1,8 +1,8 @@
 # ✦ Hi, I'm Mish! 
 
-### Systems Analyst • Full Stack Developer • Simulation Modeler
+### Computer Science Student • Aspiring Software Developer
 
-I bridge the gap between complex software architecture, rigorous data simulation, and robust security. From running granular discrete-event simulations to analyze queueing behaviors over 16-hour operating cycles, to engineering secure, full-stack systems wrapped in Role-Based Access Controls—I build applications that are optimized, normalized, and highly resilient.
+I bridge the gap between creative front-end design, logical data analysis, and secure back-end development. From crafting intuitive, responsive UI/UX layouts that make user interactions seamless, to analyzing data patterns and engineering secure full-stack web applications—I build digital solutions that are polished, optimized, and highly reliable.
 
 ---
 
@@ -10,9 +10,6 @@ I bridge the gap between complex software architecture, rigorous data simulation
 
 * **[IrisHR](https://github.com/mishgellica/irishr-ms)** | *Human Resource Management System*
   Designed and implemented efficient records management and database functionalities to improve administrative and human resource operations. Engineered a multi-tier Role-Based Access Control (RBAC) architecture, normalized the relational MySQL schemas, and deployed the live cloud system on InfinityFree. 
-
-* **Clickbait Detection System for Philippine Online News**
-  Co-designed the functional architecture and comprehensive *Business Model Canvas* for an intelligent system optimized to analyze local digital media patterns and flag deceptive news content.
 
 ---
 
@@ -22,15 +19,15 @@ I bridge the gap between complex software architecture, rigorous data simulation
 | :--- | :--- |
 | **Backend & Databases** | PHP, Laravel, MySQL (Relational Normalization, Transactional Integrity) |
 | **Frontend & Design** | HTML5, CSS3, JavaScript, UI/UX Layouts (Responsive Design) |
-| **Simulation & Analysis** | Systems Analysis, Queueing Theory Modeling, Optimization Metrics |
+| **Simulation & Analysis** | Systems Analysis, Optimization Metrics |
 | **Security & Quality** | Security Threat Analysis, Input Sanitization, Role-Based Access Control (RBAC) |
-
+| Tools & Platforms** | Git, GitHub, VS Code, XAMPP, Figma, Canva |
 ---
 
 ### Certifications & Standards
- **Network Security** (Certified Framework Competency)
- **IT Specialist: Databases** (Relational Database Design & Query Structure)
- **Software Quality Assurance (SQA):** Trained in modern testing lifecycle standards.
+* **Network Security** (Certified Framework Competency)
+* **IT Specialist: Databases** (Relational Database Design & Query Structure)
+* **Software Quality Assurance (SQA):** Trained in modern testing lifecycle standards.
 
 ---
 
@@ -41,9 +38,14 @@ I bridge the gap between complex software architecture, rigorous data simulation
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishgellica&layout=compact&theme=dracula" alt="Top Languages" height="150" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishgellica&theme=dracula" alt="GitHub Streak" height="150" />
+</p>
+
 ---
 
 ### Let's Connect!
- **LinkedIn:** [linkedin.com/in/kgellica](https://www.linkedin.com/in/kgellica/)
- **Email:** [mishgellica@gmail.com](mailto:mishgellica@gmail.com)
- **Location:** Davao City, Philippines
+* **Portfolio:** [vercel](mishgellica-portfolio.vercel.app)
+* **LinkedIn:** [linkedin.com/in/kgellica](https://www.linkedin.com/in/kgellica/)
+* **Email:** [mishgellica@gmail.com](mailto:mishgellica@gmail.com)
+* **Location:** Davao City, Philippines
