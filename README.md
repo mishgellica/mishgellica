@@ -9,7 +9,7 @@ I bridge the gap between creative front-end design, logical data analysis, and s
 ### Highlighted Projects
 
 * **[IrisHR](https://github.com/mishgellica/irishr-ms)** | *Human Resource Management System*
-  Designed and implemented efficient records management and database functionalities to improve administrative and human resource operations. Engineered a multi-tier Role-Based Access Control (RBAC) architecture, normalized the relational MySQL schemas, and deployed the live cloud system on InfinityFree. 
+* Designed and implemented efficient records management and database functionalities to improve administrative and human resource operations. Engineered a multi-tier Role-Based Access Control (RBAC) architecture, normalized the relational MySQL schemas, and deployed the live cloud system on InfinityFree. 
 
 ---
 
@@ -25,7 +25,7 @@ I bridge the gap between creative front-end design, logical data analysis, and s
 ---
 
 ### Certifications & Standards
-* **Network Security** (Certified Framework Competency)
+* **IT Specialist: Network Security** (Certified Framework Competency)
 * **IT Specialist: Databases** (Relational Database Design & Query Structure)
 * **Software Quality Assurance (SQA):** Trained in modern testing lifecycle standards.
 
@@ -45,7 +45,7 @@ I bridge the gap between creative front-end design, logical data analysis, and s
 ---
 
 ### Let's Connect!
-* **Portfolio:** [vercel](mishgellica-portfolio.vercel.app)
+* **Portfolio:** [mishgellica-portfolio](mishgellica-portfolio.vercel.app)
 * **LinkedIn:** [linkedin.com/in/kgellica](https://www.linkedin.com/in/kgellica/)
 * **Email:** [mishgellica@gmail.com](mailto:mishgellica@gmail.com)
 * **Location:** Davao City, Philippines
