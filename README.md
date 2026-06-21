@@ -31,19 +31,6 @@ I bridge the gap between creative front-end design, logical data analysis, and s
 
 ---
 
-### 📈 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishgellica&show_icons=true&theme=dracula" alt="Mish's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishgellica&layout=compact&theme=dracula" alt="Top Languages" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishgellica&theme=dracula" alt="GitHub Streak" height="150" />
-</p>
-
----
-
 ### Let's Connect!
 * **Portfolio:** [mishgellica-portfolio](mishgellica-portfolio.vercel.app)
 * **LinkedIn:** [linkedin.com/in/kgellica](https://www.linkedin.com/in/kgellica/)
